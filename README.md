@@ -1,4 +1,4 @@
-# CNN-Ketas-Local-CIFAR-10-dataset
+
 Original code is from https://github.com/snatch59/load-cifar-10, many thanks for Petras Saduikis
 ########################################
 
